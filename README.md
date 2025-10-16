@@ -41,9 +41,9 @@ The file will be automatically generated and downloaded.
 🖋️ Author
 
 Developed by Rafael Dolinski
-💡 Created to help Sergio Roberto Dolinski
 
---
+💡 Created to help Sergio Roberto Dolinski
+-------------------------------------------
 
 🧾 Gerador de Recibo | Receipt Generator
 🇧🇷 Descrição (Português)
@@ -92,5 +92,6 @@ Ideal para profissionais autônomos, como pintores, eletricistas, encanadores, d
 🖋️ Autor
 
 Desenvolvido por Rafael Dolinski
+
 💡 Projeto criado para ajudar Sergio Roberto Dolinski
 
