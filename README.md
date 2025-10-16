@@ -1,5 +1,6 @@
 # Sergio_Dolinski_Recibos
 🇺🇸 Description (English)
+-------------------------------------------
 
 The Receipt Generator is a simple and practical web application designed to make it easier for independent workers to create PDF receipts.
 It allows users to fill in provider and client details, describe the service, set the payment method, and instantly generate a professional-looking receipt — all directly in the browser, no installation required.
@@ -43,11 +44,11 @@ The file will be automatically generated and downloaded.
 Developed by Rafael Dolinski
 
 💡 Created to help Sergio Roberto Dolinski
--------------------------------------------
 
 🧾 Gerador de Recibo | Receipt Generator
-🇧🇷 Descrição (Português)
 
+🇧🇷 Descrição (Português)
+-------------------------------------------
 O Gerador de Recibo é uma aplicação simples e prática desenvolvida para facilitar a criação de recibos em PDF para prestadores de serviços autônomos.
 O sistema permite preencher os dados do prestador, do cliente, a descrição do serviço, valor e forma de pagamento — tudo de forma rápida, sem precisar instalar nada ou usar o terminal.
 
